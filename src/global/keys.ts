@@ -1,0 +1,28 @@
+const keys = {
+
+    // HEADER
+    // Spanish
+    HEADER_COLLAPSE_BUTTON_ESP: "Menú",
+    HEADER_PERSONAL_SECTION_ESP: "Personal",
+    HEADER_EDUCATION_SECTION_ESP: "Educación",
+    HEADER_EXPERIENCE_SECTION_ESP: "Experiencia",
+    HEADER_COMPUTER_SKILLS_SECTION_ESP: "Conocimientos",
+    HEADER_LENGUAGES_SECTION_ESP: "Idiomas",
+    HEADER_COMPETENCIES_SECTION_ESP: "Competencias",
+    HEADER_ANOTHER_INTERESTS_SECTION_ESP: "Otros intereses",
+    HEADER_CONTACT_SECTION_ESP: "Contacto",
+
+    // English
+    HEADER_COLLAPSE_BUTTON_ENG: "Menu",
+    HEADER_PERSONAL_SECTION_ENG: "Personal",
+    HEADER_EDUCATION_SECTION_ENG: "Education",
+    HEADER_EXPERIENCE_SECTION_ENG: "Experience",
+    HEADER_COMPUTER_SKILLS_SECTION_ENG: "Computer skills",
+    HEADER_LENGUAGES_SECTION_ENG: "Lenguages",
+    HEADER_COMPETENCIES_SECTION_ENG: "Compentencies",
+    HEADER_ANOTHER_INTERESTS_SECTION_ENG: "Another interests",
+    HEADER_CONTACT_SECTION_ENG: "Contact",
+
+}
+
+export default keys;
