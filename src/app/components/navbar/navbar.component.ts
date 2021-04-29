@@ -30,9 +30,6 @@ export class NavbarComponent implements OnInit {
     }
   };
 
-  scrollToPersonal() {
-    this.scrollService.scrollToPersonal();
-  }
   
 
 }

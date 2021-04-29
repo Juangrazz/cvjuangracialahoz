@@ -45,7 +45,30 @@ const keys = {
     "<br><br>Si no conozco una tecnología, puedo aprenderla.",
 
     // English
+    PERSONAL_DESCRIPTION_TITLE_ENG: "PERSONAL DESCRIPTION",
+    PERSONAL_DESCRIPTION_TEXT_ENG: 
+    "I consider myself a person who stands out for being responsible, sociable and a programming lover." + 
+    "I like teamwork as a team and help my teammates, in addition, I do my best in the workplace and solving the problems that arise in it. " +
+    "<br><br> If I do not know a technology, I can learn it.",
 
+    // EDUCATION
+    // Spanish
+    EDUCATION_TITLE_ESP: "EDUCACIÓN",
+    EDUCATION_QUALIFICATION_1_ESP: "<u>Bachillerato</u>",
+    EDUCATION_PLACE_1_ESP: "<i>I.E.S. Pablo Gargallo</i>",
+    EDUCATION_PERIOD_1_ESP: "2013-2016",
+    EDUCATION_QUALIFICATION_2_ESP: "<u>Grado superior - Desarrollo de Aplicaciones Web</u>",
+    EDUCATION_PLACE_2_ESP: "<i>Colegio Montessori</i>",
+    EDUCATION_PERIOD_2_ESP: "2018-2019",
+
+    // English
+    EDUCATION_TITLE_ENG: "EDUCATION",
+    EDUCATION_QUALIFICATION_1_ENG: "<u>High School</u>",
+    EDUCATION_PLACE_1_ENG: "<i>I.E.S. Pablo Gargallo</i>",
+    EDUCATION_PERIOD_1_ENG: "2013-2016",
+    EDUCATION_QUALIFICATION_2_ENG: "<u>Professional trainning - Web application development</u>",
+    EDUCATION_PLACE_2_ENG: "<i>Colegio Montessori</i>",
+    EDUCATION_PERIOD_2_ENG: "2018-2019",
 }
 
 export default keys;

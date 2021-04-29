@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { PersonalDescriptionComponent } from './components/personal-description/personal-description.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { EducationComponent } from './components/education/education.component';
+import { ExperienceComponent } from './components/experience/experience.component';
 
 
 @NgModule({
@@ -13,7 +15,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
     AppComponent,
     HeaderComponent,
     PersonalDescriptionComponent, 
-    NavbarComponent
+    NavbarComponent, EducationComponent, ExperienceComponent
   ],
   imports: [
     BrowserModule,
