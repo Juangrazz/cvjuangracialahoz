@@ -1,43 +1,14 @@
-    <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-        <div class="container-fluid animated fadeIns very-slow">
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
-                aria-label="Toggle navigation">
-                {{keys.HEADER_COLLAPSE_BUTTON_ESP}}
-                <i class="fas fa-bars"></i>
-            </button>
-            <div class="collapse navbar-collapse center-align navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#personal">{{keys.HEADER_PERSONAL_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#educacion">{{keys.HEADER_EDUCATION_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#experiencia">{{keys.HEADER_EXPERIENCE_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#conocimientos">{{keys.HEADER_COMPUTER_SKILLS_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#idiomas">{{keys.HEADER_LENGUAGES_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#compyhab">{{keys.HEADER_COMPETENCIES_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#otros">{{keys.HEADER_ANOTHER_INTERESTS_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#contacto">{{keys.HEADER_CONTACT_SECTION_ESP}}</a>
-                    </li>
-                    <li class="nav-item center-align">
-                        <a id="es-flag" class="mr-2"><img src="assets/img/spanishflag.png"></a>
-                        <a id="en-flag"><img src="assets/img/englishflag.png"></a>
-                    </li>
-                </ul>
+    <!-- Masthead-->
+    <header class="masthead">
+        <div class="container d-flex h-100 align-items-center animated fadeIn very-slow">
+            <div class="mx-auto text-center">
+                <h1 class="mx-auto my-0 text-uppercase" [innerHTML]="keys.HEADER_TITLE_ESP"></h1>
+                <h2 class="text-white-50 mx-auto mt-2 mb-5">
+                    <span [innerHTML]="keys.HEADER_SUBTITLE_ESP"></span>
+                    <span [innerHTML]="keys.HEADER_NAME_ESP"></span>
+                </h2>
+                <img class="img-fluid perfil-cuadrado" src="assets/img/perfil-cuadrado.jpg" alt="" />
+                <h3 class="text-white-50 mx-auto mt-2 mb-5" [innerHTML]="keys.HEADER_JOB_ESP"></h3>
             </div>
         </div>
-    </nav>
+    </header>
