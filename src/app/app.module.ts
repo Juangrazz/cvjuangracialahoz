@@ -9,6 +9,7 @@ import { PersonalDescriptionComponent } from './components/personal-description/
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { EducationComponent } from './components/education/education.component';
 import { ExperienceComponent } from './components/experience/experience.component';
+import { ComputerSkillsComponent } from './components/computer-skills/computer-skills.component';
 
 
 @NgModule({
@@ -16,7 +17,7 @@ import { ExperienceComponent } from './components/experience/experience.componen
     AppComponent,
     HeaderComponent,
     PersonalDescriptionComponent, 
-    NavbarComponent, EducationComponent, ExperienceComponent
+    NavbarComponent, EducationComponent, ExperienceComponent, ComputerSkillsComponent
   ],
   imports: [
     BrowserModule,

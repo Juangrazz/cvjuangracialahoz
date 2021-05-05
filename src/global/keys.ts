@@ -13,7 +13,7 @@ const keys = {
     NAVBAR_CONTACT_SECTION_ESP: "Contacto",
 
     // English
-    NAVBAR_COLLAPSE_BUTTON_ENG: "Menu ",
+    NAVBAR_COLLAPSE_BUTTON_ENG: "Menu",
     NAVBAR_PERSONAL_SECTION_ENG: "Personal",
     NAVBAR_EDUCATION_SECTION_ENG: "Education",
     NAVBAR_EXPERIENCE_SECTION_ENG: "Experience",
@@ -38,14 +38,12 @@ const keys = {
 
     // PERSONAL DESCRIPTION
     // Spanish
-    PERSONAL_DESCRIPTION_TITLE_ESP: "DESCRIPCIÓN PERSONAL",
     PERSONAL_DESCRIPTION_TEXT_ESP: 
     "Me considero una persona que destaca por ser responsable, sociable y amante de la programación." + 
     "Me gusta trabajar en equipo y ayudar a mis compañeros, además, me esfuerzo al máximo en el puesto de trabajo y en resolver los problemas que surgen en él." + 
     "<br><br>Si no conozco una tecnología, puedo aprenderla.",
 
     // English
-    PERSONAL_DESCRIPTION_TITLE_ENG: "PERSONAL DESCRIPTION",
     PERSONAL_DESCRIPTION_TEXT_ENG: 
     "I consider myself a person who stands out for being responsible, sociable and a programming lover." + 
     "I like teamwork as a team and help my teammates, in addition, I do my best in the workplace and solving the problems that arise in it. " +
@@ -53,7 +51,6 @@ const keys = {
 
     // EDUCATION
     // Spanish
-    EDUCATION_TITLE_ESP: "EDUCACIÓN",
     EDUCATION_QUALIFICATION_1_ESP: "<u>Bachillerato</u>",
     EDUCATION_PLACE_1_ESP: "<i>I.E.S. Pablo Gargallo</i>",
     EDUCATION_PERIOD_1_ESP: "2013-2016",
@@ -72,7 +69,6 @@ const keys = {
 
     // EXPERIENCE
     // Spanish
-    EXPERIENCE_TITLE_ESP: "EXPERIENCIA",
     EXPERIENCE_SUBTITLE_1_ESP: "RELACIONADA CON EL SECTOR",
     EXPERIENCE_SUBTITLE_2_ESP: "OTRA EXPERIENCIA",
     EXPERIENCE_1_TITLE_ESP: "EVERIS SPAIN S.L.U. - Programador Junior",
@@ -128,6 +124,58 @@ const keys = {
     EXPERIENCE_8_TITLE_ENG:"GRUP ALIMENTARI GUISSONA - Cashier/Stockman",
     EXPERIENCE_8_DESCRIPTION_ENG:"Responsible for the storage, the check stand and the order of the supermarket.",
     EXPERIENCE_8_PERIOD_ENG:"July 2015 - September 2015",
+
+    // COMPUTER SKILLS
+    COMPUTER_SKILLS_1_TITLE: "<u>Lenguajes de programación</u>",
+    COMPUTER_SKILLS_1_ELEMENT_1: "Java",
+    COMPUTER_SKILLS_1_ELEMENT_2: "C#",
+    COMPUTER_SKILLS_1_ELEMENT_3: "PHP",
+    COMPUTER_SKILLS_2_TITLE: "<u>Lenguajes de bases de datos</u>",
+    COMPUTER_SKILLS_2_ELEMENT_1: "MySQL",
+    COMPUTER_SKILLS_2_ELEMENT_2: "PL/SQL",
+    COMPUTER_SKILLS_2_ELEMENT_3: "PostgreSQL",
+    COMPUTER_SKILLS_2_ELEMENT_4: "MongoDB",
+    COMPUTER_SKILLS_3_TITLE: "<u>Entorno WEB</u>",
+    COMPUTER_SKILLS_3_ELEMENT_1: "TypeScript",
+    COMPUTER_SKILLS_3_ELEMENT_2: "HTML",
+    COMPUTER_SKILLS_3_ELEMENT_3: "CSS",
+    COMPUTER_SKILLS_3_ELEMENT_4: "JavaScript",
+    COMPUTER_SKILLS_3_ELEMENT_5: "JQuery",
+    COMPUTER_SKILLS_3_ELEMENT_6: "XML",
+    COMPUTER_SKILLS_3_ELEMENT_7: "JSON",
+    COMPUTER_SKILLS_3_ELEMENT_8: "Bootstrap",
+    COMPUTER_SKILLS_4_TITLE: "<u>Herramientas</u>",
+    COMPUTER_SKILLS_4_SUBSECTION_1_TITLE: "IDEs de desrrollo",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_1: "WebStorm",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_2: "PhpStorm",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_3: "Eclipse",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_4: "NetBeans",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_5: "Visual studio Enterprise",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_6: "Visual Studio Code",
+    COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_7: "Spring tool suit",
+    COMPUTER_SKILLS_4_SUBSECTION_2_TITLE: "Frameworks",
+    COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_1: "Angular",
+    COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_2: "React Native",
+    COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_3: "CodeIgniter",
+    COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_4: "NodeJS",
+    COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_5: "Spring",
+    COMPUTER_SKILLS_5_TITLE: "<u>Servidores de sitios web y aplicaciones</u>",
+    COMPUTER_SKILLS_5_ELEMENT_1: "Apache",
+    COMPUTER_SKILLS_5_ELEMENT_2: "NginX",
+    COMPUTER_SKILLS_5_ELEMENT_3: "Tomcat",
+    COMPUTER_SKILLS_5_ELEMENT_4: "VestaCP",
+    COMPUTER_SKILLS_5_ELEMENT_5: "WebLogic",
+    COMPUTER_SKILLS_5_ELEMENT_6: "WebSphere",
+    COMPUTER_SKILLS_6_TITLE: "<u>Sistemas operativos</u>",
+    COMPUTER_SKILLS_6_ELEMENT_1: "Windows",
+    COMPUTER_SKILLS_6_ELEMENT_2: "Linux",
+    COMPUTER_SKILLS_6_ELEMENT_3: "Debian",
+    COMPUTER_SKILLS_6_ELEMENT_4: "Centos",
+    COMPUTER_SKILLS_6_ELEMENT_5: "Raspbian",
+    COMPUTER_SKILLS_7_TITLE: "<u>Sistema de control de versiones</u>",
+    COMPUTER_SKILLS_7_ELEMENT_1: "GIT",
+    COMPUTER_SKILLS_7_ELEMENT_2: "GitFlow",
+    COMPUTER_SKILLS_7_ELEMENT_3: "SVN",
 }
 
 export default keys;
