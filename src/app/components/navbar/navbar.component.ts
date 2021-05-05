@@ -13,13 +13,13 @@ export class NavbarComponent implements OnInit {
 
   keys = keys;
 
-  constructor( private scrollService: ScrollService) { }
+  constructor(public scrollService: ScrollService) { }
 
   ngOnInit(): void {
     // Collapse Navbar
     this.navbarCollapse();
     $(window).scroll(this.navbarCollapse);
-
+    
   }
 
   navbarCollapse() {
