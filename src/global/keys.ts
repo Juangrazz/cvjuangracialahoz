@@ -7,9 +7,9 @@ const keys = {
     NAVBAR_EDUCATION_SECTION_ESP: "Educación",
     NAVBAR_EXPERIENCE_SECTION_ESP: "Experiencia",
     NAVBAR_COMPUTER_SKILLS_SECTION_ESP: "Conocimientos",
-    NAVBAR_LENGUAGES_SECTION_ESP: "Idiomas",
+    NAVBAR_LANGUAGES_SECTION_ESP: "Idiomas",
     NAVBAR_COMPETENCIES_SECTION_ESP: "Competencias",
-    NAVBAR_ANOTHER_INTERESTS_SECTION_ESP: "Otros intereses",
+    NAVBAR_ANOTHER_INTERESTS_SECTION_ESP: "Intereses",
     NAVBAR_CONTACT_SECTION_ESP: "Contacto",
 
     // English
@@ -18,9 +18,9 @@ const keys = {
     NAVBAR_EDUCATION_SECTION_ENG: "Education",
     NAVBAR_EXPERIENCE_SECTION_ENG: "Experience",
     NAVBAR_COMPUTER_SKILLS_SECTION_ENG: "Computer skills",
-    NAVBAR_LENGUAGES_SECTION_ENG: "Lenguages",
+    NAVBAR_LANGUAGES_SECTION_ENG: "LANGUAGEs",
     NAVBAR_COMPETENCIES_SECTION_ENG: "Compentencies",
-    NAVBAR_ANOTHER_INTERESTS_SECTION_ENG: "Another interests",
+    NAVBAR_ANOTHER_INTERESTS_SECTION_ENG: "Interests",
     NAVBAR_CONTACT_SECTION_ENG: "Contact",
 
     // HEADER
@@ -176,6 +176,28 @@ const keys = {
     COMPUTER_SKILLS_7_ELEMENT_1: "GIT",
     COMPUTER_SKILLS_7_ELEMENT_2: "GitFlow",
     COMPUTER_SKILLS_7_ELEMENT_3: "SVN",
+
+    // LANGUAGES
+    LANGUAGES_LANGUAGE_1_TITLE: "<u>Inglés</u>",
+    LANGUAGES_LANGUAGE_1_DESCRIPTION: "Dominio de la lengua inglesa a nivel intermedio e interesado en mejorar el idioma",
+
+    // COMPETENCIES
+    COMPETENCIES_COMPETENCIE_1:"Buen trabajador en equipo, ordenado y dedicado",
+    COMPETENCIES_COMPETENCIE_2:"Entregado y comprometido con la labor que desempeño",
+    COMPETENCIES_COMPETENCIE_3:"Resolutivo a la hora de llevar a término los problemas planteados",
+    COMPETENCIES_COMPETENCIE_4:"Creativo, me gusta buscar nuevas soluciones e ideas en el desarrollo de aplicaciones",
+    COMPETENCIES_COMPETENCIE_5:"Autodidacta",
+
+    // INTERESTS
+    INTERESTS_INTEREST_1: "Carnet de conducir tipo B",
+    INTERESTS_INTEREST_2: "Coche propio",
+    INTERESTS_INTEREST_3: "Servicio de voluntariado en la protectora de animales <i>Espolones</i>",
+
+    // CONTACT
+    CONTACT_EMAIL_TEXT:"CORREO",
+    CONTACT_EMAIL_EMAIL: "jgrzz.menel@gmail.com",
+    CONTACT_PHONE_TEXT: "MÓVIL",
+    CONTACT_PHONE_NUMBER: "676 57 18 28",
 }
 
 export default keys;

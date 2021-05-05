@@ -23,7 +23,19 @@
             e.preventDefault();
         });
     }
-    
+
+    // Closes responsive menu when a scroll trigger link is clicked
+    $(".js-scroll-trigger").click(function() {
+        $(".navbar-collapse").collapse("hide");
+    });
+
+    // Activate scrollspy to add active class to navbar items on scroll
+    $("body").scrollspy({
+        target: "#mainNav",
+        offset: 100,
+    });
+
+
     $(document).ready(function() {
         scroll();
         width();
@@ -138,6 +150,8 @@
             $("#contacto").removeClass("fadeIn");
             $("#contacto").addClass("fadeOut");
         }
+
+
     }
 
 })(jQuery); // End of use strict

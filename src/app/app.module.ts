@@ -10,6 +10,11 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { EducationComponent } from './components/education/education.component';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { ComputerSkillsComponent } from './components/computer-skills/computer-skills.component';
+import { LanguagesComponent } from './components/languages/languages.component';
+import { CompetenciesComponent } from './components/competencies/competencies.component';
+import { AnotherInterestsComponent } from './components/another-interests/another-interests.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { ProjectsComponent } from './components/projects/projects.component';
 
 
 @NgModule({
@@ -17,7 +22,15 @@ import { ComputerSkillsComponent } from './components/computer-skills/computer-s
     AppComponent,
     HeaderComponent,
     PersonalDescriptionComponent, 
-    NavbarComponent, EducationComponent, ExperienceComponent, ComputerSkillsComponent
+    NavbarComponent, 
+    EducationComponent, 
+    ExperienceComponent, 
+    ComputerSkillsComponent, 
+    LanguagesComponent,
+    CompetenciesComponent,
+    AnotherInterestsComponent,
+    ProjectsComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
