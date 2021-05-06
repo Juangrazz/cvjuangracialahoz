@@ -7,8 +7,6 @@ import keys from '../../../global/keys';
   styleUrls: ['./another-interests.component.scss']
 })
 export class AnotherInterestsComponent implements OnInit {
-
-  keys = keys;
   
   constructor() { }
 

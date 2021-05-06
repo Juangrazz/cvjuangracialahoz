@@ -10315,13 +10315,6 @@ body {
 }
 
 @media (min-width: 992px) {
-    #mainNav {
-        padding-top: 0;
-        padding-bottom: 0;
-        border-bottom: none;
-        background-color: transparent;
-        transition: background-color 0.3s ease-in-out;
-    }
     #mainNav .navbar-brand {
         padding: 0.5rem 0;
         color: rgba(255, 255, 255, 0.5);
@@ -10480,6 +10473,7 @@ hr {
     font-size: 90%;
 }
 
+
 @media (min-width: 992px) {
     .projects-section .project-text {
         padding: 5rem;
@@ -10557,4 +10551,14 @@ hr {
 
 .footer {
     padding: 5rem 0;
+}
+
+@media (min-width: 1200px) {
+    #mainNav {
+        padding-top: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+        background-color: transparent;
+        transition: background-color 0.3s ease-in-out;
+    }
 }

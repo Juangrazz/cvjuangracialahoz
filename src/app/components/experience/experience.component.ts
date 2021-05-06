@@ -8,8 +8,6 @@ import keys from '../../../global/keys';
 })
 export class ExperienceComponent implements OnInit {
 
-  keys = keys;
-  
   constructor() { }
 
   ngOnInit(): void {

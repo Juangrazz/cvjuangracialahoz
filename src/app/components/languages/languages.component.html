@@ -1,16 +1,16 @@
 <!-- Idiomas -->
 <section id="idiomas" class="idiomas-section text-center">
-    <div class="container-fluid" id="txt-idiomas">
-        <div class="row">
-            <h2 class="text-white mb-4 col" [innerHTML]="keys.NAVBAR_LANGUAGES_SECTION_ESP.toUpperCase()"></h2>
-        </div>
-        <div class="row">
-            <div class="col">
-                <div>
-                    <h4 class="mb-4 text-white-80" [innerHTML]="keys.LANGUAGES_LANGUAGE_1_TITLE"></h4>
-                    <p class="mb-4 text-white-70" [innerHTML]="keys.LANGUAGES_LANGUAGE_1_DESCRIPTION"></p>
-                </div>
-            </div>
-        </div>
+  <div class="container-fluid" id="txt-idiomas">
+    <div class="row">
+      <h2 class="text-white mb-4 col">{{ 'NAVBAR_LANGUAGES_SECTION' | translate | uppercase }}</h2>
     </div>
+    <div class="row">
+      <div class="col">
+        <div>
+          <h4 class="mb-4 text-white-80">{{ 'LANGUAGES_LANGUAGE_1_TITLE' | translate }}</h4>
+          <p class="mb-4 text-white-70">{{ 'LANGUAGES_LANGUAGE_1_DESCRIPTION' | translate }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
