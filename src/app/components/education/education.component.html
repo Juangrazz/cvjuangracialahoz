@@ -1,24 +1,24 @@
  <!-- educacion -->
  <section id="educacion" class="educacion-section text-center">
-    <div class="container-fluid" id="txt-educacion">
-        <div class="row">
-            <h2 class="text-black mb-4 col" [innerHTML]="keys.NAVBAR_EDUCATION_SECTION_ESP.toUpperCase()"></h2>
-        </div>
-        <div class="row">
-            <div class="col">
-                <div>
-                    <h4 class="mb-4" [innerHTML]="keys.EDUCATION_QUALIFICATION_1_ESP"></h4>
-                    <p [innerHTML]="keys.EDUCATION_PLACE_1_ESP"></p>
-                    <p class="text-black-50" [innerHTML]="keys.EDUCATION_PERIOD_1_ESP"></p>
-                    <i class="fas fa-school fa-2x"></i>
-                </div>
-                <div class="mt-5">
-                    <h4 class="mb-4" [innerHTML]="keys.EDUCATION_QUALIFICATION_2_ESP"></h4>
-                    <p [innerHTML]="keys.EDUCATION_PLACE_2_ESP"></p>
-                    <p class="text-black-50" [innerHTML]="keys.EDUCATION_PERIOD_2_ESP"></p>
-                    <i class="fas fa-certificate fa-2x"></i>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+   <div class="container-fluid" id="txt-educacion">
+     <div class="row">
+       <h2 class="text-black mb-4 col">{{ 'NAVBAR_EDUCATION_SECTION' | translate | uppercase }}</h2>
+     </div>
+     <div class="row">
+       <div class="col">
+         <div>
+           <h4 class="mb-4"><u>{{ 'EDUCATION_QUALIFICATION_1' | translate }}</u></h4>
+           <p>{{ 'EDUCATION_PLACE_1' | translate }}</p>
+           <p class="text-black-50"><i>{{ 'EDUCATION_PERIOD_1' | translate }}</i></p>
+           <i class="fas fa-school fa-2x"></i>
+         </div>
+         <div class="mt-5">
+           <h4 class="mb-4"><u>{{ 'EDUCATION_QUALIFICATION_2' | translate }}</u></h4>
+           <p>{{ 'EDUCATION_PLACE_2' | translate }}</p>
+           <p class="text-black-50"><i>{{ 'EDUCATION_PERIOD_2' | translate }}</i></p>
+           <i class="fas fa-certificate fa-2x"></i>
+         </div>
+       </div>
+     </div>
+   </div>
+ </section>

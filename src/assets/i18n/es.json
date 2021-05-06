@@ -11,19 +11,18 @@
     
 
     "HEADER_TITLE": "CURRÍCULUM",
-    "HEADER_SUBTITLE": "Perfil profesional de ",
-    "HEADER_NAME": "<b>Juan Gracia Lahoz</b>",
+    "HEADER_SUBTITLE": "Perfil profesional de Juan Gracia Lahoz",
     "HEADER_JOB": "Desarrollador web",
    
     
-    "PERSONAL_DESCRIPTION_TEXT": "Me considero una persona que destaca por ser responsable, sociable y amante de la programación. Me gusta trabajar en equipo y ayudar a mis compañeros, además, me esfuerzo al máximo en el puesto de trabajo y en resolver los problemas que surgen en él. <br><br>Si no conozco una tecnología, puedo aprenderla.",
+    "PERSONAL_DESCRIPTION_TEXT": "Me considero una persona que destaca por ser responsable, sociable y amante de la programación. Me gusta trabajar en equipo y ayudar a mis compañeros, además, me esfuerzo al máximo en el puesto de trabajo y en resolver los problemas que surgen en él.",
+    "PERSONAL_DESCRIPTION_TEXT_2": "Si no conozco una tecnología, puedo aprenderla.",
     
-    
-    "EDUCATION_QUALIFICATION_1": "<u>Bachillerato</u>",
-    "EDUCATION_PLACE_1": "<i>I.E.S. Pablo Gargallo</i>",
+    "EDUCATION_QUALIFICATION_1": "Bachillerato",
+    "EDUCATION_PLACE_1": "I.E.S. Pablo Gargallo",
     "EDUCATION_PERIOD_1": "2013-2016",
-    "EDUCATION_QUALIFICATION_2": "<u>Grado superior - Desarrollo de Aplicaciones Web</u>",
-    "EDUCATION_PLACE_2": "<i>Colegio Montessori</i>",
+    "EDUCATION_QUALIFICATION_2": "Grado superior - Desarrollo de Aplicaciones Web",
+    "EDUCATION_PLACE_2": "Colegio Montessori",
     "EDUCATION_PERIOD_2": "2018-2019",
    
    
@@ -31,7 +30,7 @@
     "EXPERIENCE_SUBTITLE_2": "OTRA EXPERIENCIA",
     "EXPERIENCE_1_TITLE": "EVERIS SPAIN S.L.U. - Programador Junior",
     "EXPERIENCE_1_DESCRIPTION": "Desarrollador de aplicaciones web con Java, Spring Boot y modelo de arquitectura MVC + DAO + DTO.",
-    "EXPERIENCE_1_PERIOD": "Enero 2020 - Actualidad",
+    "EXPERIENCE_1_PERIOD": "Enero 2021 - Actualidad",
     "EXPERIENCE_2_TITLE": "EVERIS SPAIN S.L.U. - Becario",
     "EXPERIENCE_2_DESCRIPTION": "Desarrollador de aplicaciones web con Java, Spring Boot, PL/SQL, FreeMarker y modelo de arquitectura MVC + DAO.",
     "EXPERIENCE_2_PERIOD": "Septiembre 2020 - Diciembre 2020",
@@ -55,16 +54,16 @@
     "EXPERIENCE_8_PERIOD": "Julio 2015 - Septiembre 2015",
     
     
-    "COMPUTER_SKILLS_1_TITLE": "<u>Lenguajes de programación</u>",
+    "COMPUTER_SKILLS_1_TITLE": "Lenguajes de programación",
     "COMPUTER_SKILLS_1_ELEMENT_1": "Java",
     "COMPUTER_SKILLS_1_ELEMENT_2": "C#",
     "COMPUTER_SKILLS_1_ELEMENT_3": "PHP",
-    "COMPUTER_SKILLS_2_TITLE": "<u>Lenguajes de bases de datos</u>",
+    "COMPUTER_SKILLS_2_TITLE": "Lenguajes de bases de datos",
     "COMPUTER_SKILLS_2_ELEMENT_1": "MySQL",
     "COMPUTER_SKILLS_2_ELEMENT_2": "PL/SQL",
     "COMPUTER_SKILLS_2_ELEMENT_3": "PostgreSQL",
     "COMPUTER_SKILLS_2_ELEMENT_4": "MongoDB",
-    "COMPUTER_SKILLS_3_TITLE": "<u>Entorno WEB</u>",
+    "COMPUTER_SKILLS_3_TITLE": "Entorno WEB",
     "COMPUTER_SKILLS_3_ELEMENT_1": "TypeScript",
     "COMPUTER_SKILLS_3_ELEMENT_2": "HTML",
     "COMPUTER_SKILLS_3_ELEMENT_3": "CSS",
@@ -73,7 +72,7 @@
     "COMPUTER_SKILLS_3_ELEMENT_6": "XML",
     "COMPUTER_SKILLS_3_ELEMENT_7": "JSON",
     "COMPUTER_SKILLS_3_ELEMENT_8": "Bootstrap",
-    "COMPUTER_SKILLS_4_TITLE": "<u>Herramientas</u>",
+    "COMPUTER_SKILLS_4_TITLE": "Herramientas",
     "COMPUTER_SKILLS_4_SUBSECTION_1_TITLE": "IDEs de desrrollo",
     "COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_1": "WebStorm",
     "COMPUTER_SKILLS_4_SUBSECTION_1_ELEMENT_2": "PhpStorm",
@@ -88,26 +87,26 @@
     "COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_3": "CodeIgniter",
     "COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_4": "NodeJS",
     "COMPUTER_SKILLS_4_SUBSECTION_2_ELEMENT_5": "Spring",
-    "COMPUTER_SKILLS_5_TITLE": "<u>Servidores de sitios web y aplicaciones</u>",
+    "COMPUTER_SKILLS_5_TITLE": "Servidores de sitios web y aplicaciones",
     "COMPUTER_SKILLS_5_ELEMENT_1": "Apache",
     "COMPUTER_SKILLS_5_ELEMENT_2": "NginX",
     "COMPUTER_SKILLS_5_ELEMENT_3": "Tomcat",
     "COMPUTER_SKILLS_5_ELEMENT_4": "VestaCP",
     "COMPUTER_SKILLS_5_ELEMENT_5": "WebLogic",
     "COMPUTER_SKILLS_5_ELEMENT_6": "WebSphere",
-    "COMPUTER_SKILLS_6_TITLE": "<u>Sistemas operativos</u>",
+    "COMPUTER_SKILLS_6_TITLE": "Sistemas operativos",
     "COMPUTER_SKILLS_6_ELEMENT_1": "Windows",
     "COMPUTER_SKILLS_6_ELEMENT_2": "Linux",
     "COMPUTER_SKILLS_6_ELEMENT_3": "Debian",
     "COMPUTER_SKILLS_6_ELEMENT_4": "Centos",
     "COMPUTER_SKILLS_6_ELEMENT_5": "Raspbian",
-    "COMPUTER_SKILLS_7_TITLE": "<u>Sistema de control de versiones</u>",
+    "COMPUTER_SKILLS_7_TITLE": "Sistema de control de versiones",
     "COMPUTER_SKILLS_7_ELEMENT_1": "GIT",
     "COMPUTER_SKILLS_7_ELEMENT_2": "GitFlow",
     "COMPUTER_SKILLS_7_ELEMENT_3": "SVN",
     
     
-    "LANGUAGES_LANGUAGE_1_TITLE": "<u>Inglés</u>",
+    "LANGUAGES_LANGUAGE_1_TITLE": "Inglés",
     "LANGUAGES_LANGUAGE_1_DESCRIPTION": "Dominio de la lengua inglesa a nivel intermedio e interesado en mejorar el idioma",
     
     
@@ -120,7 +119,7 @@
     
     "INTERESTS_INTEREST_1": "Carnet de conducir tipo B",
     "INTERESTS_INTEREST_2": "Coche propio",
-    "INTERESTS_INTEREST_3": "Servicio de voluntariado en la protectora de animales <i>Espolones</i>",
+    "INTERESTS_INTEREST_3": "Servicio de voluntariado en la protectora de animales 'Espolones'",
    
    
     "CONTACT_EMAIL_TEXT": "CORREO",

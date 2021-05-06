@@ -11,9 +11,7 @@ declare var $: any;
   styleUrls: ['./navbar.component.scss']
 })
 export class NavbarComponent implements OnInit {
-
-  keys = keys;
-
+  
   constructor(public scrollService: ScrollService, private languageService: LanguageService) { }
 
   ngOnInit(): void {

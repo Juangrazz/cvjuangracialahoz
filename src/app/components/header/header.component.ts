@@ -10,8 +10,6 @@ declare var $: any;
 })
 export class HeaderComponent implements OnInit {
 
-  keys = keys;
-
   constructor() { }
 
   ngOnInit(): void {

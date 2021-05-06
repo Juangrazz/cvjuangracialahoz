@@ -8,8 +8,6 @@ import keys from '../../../global/keys';
 })
 export class PersonalDescriptionComponent implements OnInit {
 
-  keys = keys;
-  
   constructor() { }
 
   ngOnInit(): void {
