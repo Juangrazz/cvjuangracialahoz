@@ -34,8 +34,8 @@
                         <a class="nav-link js-scroll-trigger" [innerHTML]="keys.NAVBAR_CONTACT_SECTION_ESP" (click)="scrollService.toContact()"></a>
                     </li>
                     <li class="nav-item center-align">
-                        <a id="es-flag" class="mr-2"><img src="assets/img/spanishflag.png"></a>
-                        <a id="en-flag"><img src="assets/img/englishflag.png"></a>
+                        <a id="es-flag" class="mr-2" (click)="changeLanguage('esp')"><img src="assets/img/spanishflag.png"></a>
+                        <a id="en-flag" (click)="changeLanguage('eng')"><img src="assets/img/englishflag.png"></a>
                     </li>
                 </ul>
             </div>

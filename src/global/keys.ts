@@ -1,5 +1,8 @@
 const keys = {
 
+    // LOCAL STORAGE
+    STORAGE_LANGUAGE: "lang",
+
     // NAVBAR
     // Spanish
     NAVBAR_COLLAPSE_BUTTON_ESP: "Menú",

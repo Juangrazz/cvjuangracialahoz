@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { runInThisContext } from 'node:vm';
 import keys from '../../../global/keys';
 import { ScrollService } from '../../services/scroll.service';
 
@@ -12,14 +13,18 @@ declare var $: any;
 export class NavbarComponent implements OnInit {
 
   keys = keys;
+  language!: string;
 
   constructor(public scrollService: ScrollService) { }
 
   ngOnInit(): void {
+
+    this.language = localStorage.getItem(keys.STORAGE_LANGUAGE) || "esp";
+
     // Collapse Navbar
     this.navbarCollapse();
     $(window).scroll(this.navbarCollapse);
-    
+
   }
 
   navbarCollapse() {
@@ -30,6 +35,12 @@ export class NavbarComponent implements OnInit {
     }
   };
 
-  
+  changeLanguage(language: string) {
+    localStorage.setItem(keys.STORAGE_LANGUAGE, language);
+    this.language = language;
+    window.location.reload();
+  }
+
+
 
 }
