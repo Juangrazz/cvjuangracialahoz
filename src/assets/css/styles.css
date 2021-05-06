@@ -10277,6 +10277,7 @@ body {
 #mainNav {
     min-height: 3.5rem;
     background-color: #fff;
+    padding-bottom: 1em;
 }
 
 #mainNav img {
@@ -10314,11 +10315,20 @@ body {
     background-color: transparent;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
+    #mainNav {
+        padding-top: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+        background-color: transparent;
+        transition: background-color 0.3s ease-in-out;
+    }    
+
     #mainNav .navbar-brand {
         padding: 0.5rem 0;
         color: rgba(255, 255, 255, 0.5);
     }
+        
     #mainNav .nav-link {
         transition: none;
         padding: 2rem 1.5rem;
@@ -10327,6 +10337,7 @@ body {
     #mainNav .nav-link:hover {
         color: rgba(255, 255, 255, 0.75);
     }
+
     #mainNav .nav-link:active {
         color: #fff;
     }
@@ -10369,7 +10380,7 @@ body {
     width: 100%;
     height: auto;
     min-height: 45rem;
-    padding: 15rem 0 5rem 0;
+    padding: 8rem 0 5rem 0;
     background: linear-gradient(to bottom, rgba(0, 61, 175, 0.3) 0%, rgba(0, 26, 73, 0.7) 75%, #000000 100%), url("../img/bg-masthead.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -10473,7 +10484,6 @@ hr {
     font-size: 90%;
 }
 
-
 @media (min-width: 992px) {
     .projects-section .project-text {
         padding: 5rem;
@@ -10551,14 +10561,4 @@ hr {
 
 .footer {
     padding: 5rem 0;
-}
-
-@media (min-width: 1200px) {
-    #mainNav {
-        padding-top: 0;
-        padding-bottom: 0;
-        border-bottom: none;
-        background-color: transparent;
-        transition: background-color 0.3s ease-in-out;
-    }
 }
