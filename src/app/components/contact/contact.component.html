@@ -3,7 +3,7 @@
   <hr class="mr-5 ml-5">
   <div id="contacto" class="container mt-5">
     <div class="row">
-      <div class="col mb-3 mb-md-0">
+      <div class="col-md-4 mb-3 mb-md-0">
         <div class="card py-4 h-100">
           <div class="card-body text-center">
             <i class="fas fa-envelope text-primary mb-2"></i>
@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-      <div class="col mb-3 mb-md-0">
+      <div class="col-md-4 mb-3 mb-md-0">
         <div class="card py-4 h-100">
           <div class="card-body text-center">
             <i class="fas fa-mobile-alt text-primary mb-2"></i>
@@ -23,6 +23,18 @@
             <hr class="my-4" />
             <div class="small text-black-50"><a
                 [href]="'tel:' + keys.CONTACT_PHONE_NUMBER">{{ 'CONTACT_PHONE_NUMBER' | translate }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-3 mb-md-0">
+        <div class="card py-4 h-100">
+          <div class="card-body text-center">
+            <i class="fab fa-linkedin text-primary mb-2"></i>
+            <h4 class="text-uppercase m-0">{{ 'CONTACT_LINKEDIN_TEXT' | translate }}</h4>
+            <hr class="my-4" />
+            <div class="small text-black-50"><a
+                [href]="keys.CONTACT_LINKEDIN_PROFILE">{{ 'CONTACT_LINKEDIN_PROFILE' | translate }}</a>
             </div>
           </div>
         </div>
