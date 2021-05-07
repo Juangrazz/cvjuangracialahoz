@@ -5779,6 +5779,9 @@ a.badge-black.focus {
         margin-left: -1px;
         border-left-width: 1px;
     }
+}
+
+@media (min-width: 1200px) {
     .list-group-horizontal-xl {
         flex-direction: row;
     }
@@ -10312,7 +10315,7 @@ body {
     background-color: transparent;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
     #mainNav {
         padding-top: 0;
         padding-bottom: 0;
