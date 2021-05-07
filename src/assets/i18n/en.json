@@ -1,12 +1,16 @@
 {
     "NAVBAR_COLLAPSE_BUTTON": "Menu",
     "NAVBAR_PERSONAL_SECTION": "Personal",
+    "NAVBAR_ABOUT_ME_SECTION": "About me",
     "NAVBAR_EDUCATION_SECTION": "Education",
     "NAVBAR_EXPERIENCE_SECTION": "Experience",
-    "NAVBAR_COMPUTER_SKILLS_SECTION": "Skills",
+    "NAVBAR_KNOWLEDGE_SECTION": "Knowledge",
+    "NAVBAR_COMPUTER_SKILLS_SECTION": "Computer skills",
     "NAVBAR_LANGUAGES_SECTION": "Languages",
     "NAVBAR_COMPETENCIES_SECTION": "Compentencies",
-    "NAVBAR_ANOTHER_INTERESTS_SECTION": "Interests",
+    "NAVBAR_INTERESTS_SECTION": "Interests",
+    "NAVBAR_ANOTHER_INTERESTS_SECTION": "Another interests",
+    "NAVBAR_PROJECTS_SECTION": "Projects",
     "NAVBAR_CONTACT_SECTION": "Contact",
 
 
@@ -18,7 +22,6 @@
     "PERSONAL_DESCRIPTION_TEXT": "I consider myself a person who stands out for being responsible, sociable and a programming lover. I like teamwork as a team and help my teammates, in addition, I do my best in the workplace and solving the problems that arise in it.",
     "PERSONAL_DESCRIPTION_TEXT_2": "If I do not know a technology, I can learn it.",
     
-    "EDUCATION_TITLE": "EDUCATION",
     "EDUCATION_QUALIFICATION_1": "High School",
     "EDUCATION_PLACE_1": "I.E.S. Pablo Gargallo",
     "EDUCATION_PERIOD_1": "2013-2016",
@@ -27,7 +30,6 @@
     "EDUCATION_PERIOD_2": "2018-2019",
     
     
-    "EXPERIENCE_TITLE": "EXPERIENCE",
     "EXPERIENCE_SUBTITLE_1": "RELATED TO THE SECTOR",
     "EXPERIENCE_SUBTITLE_2": "ANOTHER EXPERIENCE",
     "EXPERIENCE_1_TITLE": "EVERIS SPAIN S.L.U. - Junior developer",

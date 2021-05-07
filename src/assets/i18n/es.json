@@ -1,12 +1,16 @@
 {  
     "NAVBAR_COLLAPSE_BUTTON": "Menú",
     "NAVBAR_PERSONAL_SECTION": "Personal",
+    "NAVBAR_ABOUT_ME_SECTION": "Sobre mi",
     "NAVBAR_EDUCATION_SECTION": "Educación",
     "NAVBAR_EXPERIENCE_SECTION": "Experiencia",
-    "NAVBAR_COMPUTER_SKILLS_SECTION": "Conocimientos",
+    "NAVBAR_KNOWLEDGE_SECTION": "Conocimientos",
+    "NAVBAR_COMPUTER_SKILLS_SECTION": "Conocimientos informáticos",
     "NAVBAR_LANGUAGES_SECTION": "Idiomas",
     "NAVBAR_COMPETENCIES_SECTION": "Competencias",
-    "NAVBAR_ANOTHER_INTERESTS_SECTION": "Intereses",
+    "NAVBAR_INTERESTS_SECTION": "Intereses",
+    "NAVBAR_ANOTHER_INTERESTS_SECTION": "Otros intereses",
+    "NAVBAR_PROJECTS_SECTION": "Proyectos",
     "NAVBAR_CONTACT_SECTION": "Contacto",
     
 
@@ -110,12 +114,14 @@
     "LANGUAGES_LANGUAGE_1_DESCRIPTION": "Dominio de la lengua inglesa a nivel intermedio e interesado en mejorar el idioma",
     
     
-    "COMPETENCIES_COMPETENCIE_1": "Buen trabajador en equipo, ordenado y dedicado",
-    "COMPETENCIES_COMPETENCIE_2": "Entregado y comprometido con la labor que desempeño",
-    "COMPETENCIES_COMPETENCIE_3": "Resolutivo a la hora de llevar a término los problemas planteados",
-    "COMPETENCIES_COMPETENCIE_4": "Creativo, me gusta buscar nuevas soluciones e ideas en el desarrollo de aplicaciones",
-    "COMPETENCIES_COMPETENCIE_5": "Autodidacta",
-    
+    "PROJECTS_PROJECT_1_TITLE": "FORO",    
+    "PROJECTS_PROJECT_1_P_1": "Foro para la publicación y búsqueda de posts sobre personas que se hayan visto en X lugar. Incluye un apartado para la publicación y búsqueda de perfiles de personas concretas, además de otro apartado donde se pueden visualizar gráficas estadísticas.",    
+    "PROJECTS_PROJECT_1_P_2": "De forma complementaria, tiene un panel de administración desde el que se moderan los post enviados por las personas.",    
+    "PROJECTS_PROJECT_1_P_3": "Desarrollado con Angular 11, Bootstrap 4.5 y JQuery.",
+    "PROJECTS_REPOSITORY_TITLE": "Repositorio",
+    "PROJECTS_REPOSITORY": "Desde el enlace que se muestra a continuación, se puede acceder a mi repositorio personal de proyectos públicos.",
+    "PROJECTS_LINK": "Enlace",
+
     
     "INTERESTS_INTEREST_1": "Carnet de conducir tipo B",
     "INTERESTS_INTEREST_2": "Coche propio",

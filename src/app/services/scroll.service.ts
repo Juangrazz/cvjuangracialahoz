@@ -34,8 +34,12 @@ export class ScrollService {
     this.smooth.smoothScroll($("#compyhab")!.offset().top + 50, { duration: 1000, easing: 'easeInOutQuart' });
   }
 
+  toProjects(){
+    this.smooth.smoothScroll($("#projects")!.offset().top - 100, { duration: 1000, easing: 'easeInOutQuart' });
+  }
+
   toAnotherInterest(){
-    this.smooth.smoothScroll($("#otros")!.offset().top - 100, { duration: 1000, easing: 'easeInOutQuart' });
+    this.smooth.smoothScroll($("#otros")!.offset().top + 50, { duration: 1000, easing: 'easeInOutQuart' });
   }
 
   toContact(){
