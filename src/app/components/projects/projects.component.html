@@ -8,7 +8,7 @@
         <div class="d-flex h-100">
           <div class="project-text w-100 my-auto text-center text-lg-left">
             <h4 class="text-black mb-4">{{ 'PROJECTS_PROJECT_1_TITLE' | translate }}</h4>
-            <a href="https:/cvjuangracialahoz.netlify.app/assets/img/people_finder.png" target="_blank">
+            <a [href]="keys.PEOPLE_FINDER_IMAGE_URL" target="_blank">
               <img class="img-fluid rounded" src="../../../assets/img/people_finder.png" alt="" />
             </a>
             <div class="mt-4">
@@ -30,8 +30,8 @@
         <div class="d-flex h-100">
           <div class="project-text w-100 my-auto text-center text-lg-left">
             <h4 class="text-black mb-4">{{ 'PROJECTS_PROJECT_2_TITLE' | translate }}</h4>
-            <a href="https:/cvjuangracialahoz.netlify.app/assets/img/cv_project.jpg" target="_blank">
-              <img class="img-fluid rounded" src="../../../assets/img/cv_project.jpg" alt="" />
+            <a [href]="keys.CV_IMAGE_URL" target="_blank">
+              <img class="img-fluid rounded" src="../../../assets/img/cv_project.png" alt="" />
             </a>
             <div class="mt-4">
               <p class="mb-0 text-black-50 text-justify">{{ 'PROJECTS_PROJECT_2_P_1' | translate }}</p>
