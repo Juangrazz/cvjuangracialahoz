@@ -113,6 +113,19 @@
     "LANGUAGES_LANGUAGE_1_TITLE": "English",
     "LANGUAGES_LANGUAGE_1_DESCRIPTION": "Fluency in the English language at intermediate level and interested in improving the language",
     
+
+    "PROJECTS_REPOSITORY_TITLE": "Repository",
+    "PROJECTS_REPOSITORY": "Through the following link, you can access my repository of personal public projects.",
+    "PROJECTS_LINK": "Link",
+    "PROJECTS_PROJECT_1_TITLE": "FORUM",    
+    "PROJECTS_PROJECT_1_P_1": "Social forum to publicate posts. The purpose is that if a person sees another doing something interesging, they might interact among each other and get to know in real life. It includes a section for posting and searching specific people profiles. In addition, there is another section when you can see statistics graphs.",    
+    "PROJECTS_PROJECT_1_P_2": "In a complementary way, there is an administration panel through which posts that have been sent by people can be moderated.",    
+    "PROJECTS_PROJECT_1_P_3": "Developed in Angular 11, Bootstrap 4.5 y JQuery.",
+    "PROJECTS_PROJECT_2_TITLE": "CURRICULUM",    
+    "PROJECTS_PROJECT_2_P_1": "Curriculum template developed with a multilingual system to display professional information, and to switch between english and spanish at any time as well.",    
+    "PROJECTS_PROJECT_2_P_2": "The scroll animations and the multilingual function are developed with 'ngx-smooth-scroll' and 'ngx-translate/core' respectively.",    
+    "PROJECTS_PROJECT_2_P_3": "Developed in Angular 11, Bootstrap 4.5 y JQuery.",
+
     
     "COMPETENCIES_COMPETENCIE_1": "Good team worker, tidy and dedicated",
     "COMPETENCIES_COMPETENCIE_2": "Dedicated and committed to the work I do",

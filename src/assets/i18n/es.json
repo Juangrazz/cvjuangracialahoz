@@ -113,15 +113,19 @@
     "LANGUAGES_LANGUAGE_1_TITLE": "Inglés",
     "LANGUAGES_LANGUAGE_1_DESCRIPTION": "Dominio de la lengua inglesa a nivel intermedio e interesado en mejorar el idioma",
     
-    
-    "PROJECTS_PROJECT_1_TITLE": "FORO",    
-    "PROJECTS_PROJECT_1_P_1": "Foro para la publicación y búsqueda de posts sobre personas que se hayan visto en X lugar. Incluye un apartado para la publicación y búsqueda de perfiles de personas concretas, además de otro apartado donde se pueden visualizar gráficas estadísticas.",    
-    "PROJECTS_PROJECT_1_P_2": "De forma complementaria, tiene un panel de administración desde el que se moderan los post enviados por las personas.",    
-    "PROJECTS_PROJECT_1_P_3": "Desarrollado con Angular 11, Bootstrap 4.5 y JQuery.",
+
     "PROJECTS_REPOSITORY_TITLE": "Repositorio",
     "PROJECTS_REPOSITORY": "Desde el enlace que se muestra a continuación, se puede acceder a mi repositorio personal de proyectos públicos.",
     "PROJECTS_LINK": "Enlace",
-
+    "PROJECTS_PROJECT_1_TITLE": "FORO",    
+    "PROJECTS_PROJECT_1_P_1": "Foro social para la publicación de posts. La finalidad reside en que si una persona ve a otra haciendo algo de interés, puedan tener la oportunidad de conocerse en la vida real. Incluye un apartado para la publicación y búsqueda de perfiles de personas concretas, además de otro apartado donde se pueden visualizar gráficas estadísticas.",    
+    "PROJECTS_PROJECT_1_P_2": "De forma complementaria, tiene un panel de administración desde el que se moderan los post enviados por las personas.",    
+    "PROJECTS_PROJECT_1_P_3": "Desarrollado con Angular 11, Bootstrap 4.5 y JQuery.",
+    "PROJECTS_PROJECT_2_TITLE": "CURRÍCULUM",    
+    "PROJECTS_PROJECT_2_P_1": "Plantilla curriculum elaborada con un sistema de multilenguaje para poder mostrar la información profesionar y, además, poder cambiar entre el inglés y el español en cualquier momento.",    
+    "PROJECTS_PROJECT_2_P_2": "Las animaciones de scroll y la función de multilenguaje están desarrolladas con 'ngx-smooth-scroll' y 'ngx-translate/core' respectivamente.",    
+    "PROJECTS_PROJECT_2_P_3": "Desarrollado con Angular 11, Bootstrap 4.5 y JQuery.",
+    
     
     "INTERESTS_INTEREST_1": "Carnet de conducir tipo B",
     "INTERESTS_INTEREST_2": "Coche propio",
